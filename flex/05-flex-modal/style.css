@@ -69,9 +69,20 @@ button.cancel {
 .header {
   font-weight: 900;
   font-size: 20px;
+  margin-left: -30px;
 }
 
 .top { 
   display: flex;
   justify-content: space-between;
-}}
+}
+
+.text {
+  padding-left: 80px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+
+.continue {
+  margin-left: 80px;
+}
